@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VinGuide</string>
+
+    <string-array name="menu_items">
+        <item>Искуство</item>
+        <item>Развлечения</item>
+        <item>События</item>
+        <item>Кафе и рестораны</item>
+        <item>Ночные клубы</item>
+        <item>Отдых</item>
+        <item>Шопинг</item>
+        <item>Сервис</item>
+        <item>Путишествия</item>
+        <item>Другие места</item>
+    </string-array>
+    <string-array name="categories">
+        <item>arts</item>
+        <item>entertainment</item>
+        <item>event</item>
+        <item>food</item>
+        <item>nightlife</item>
+        <item>recreation</item>
+        <item>shop</item>
+        <item>service</item>
+        <item>travel</item>
+        <item>other</item>
+    </string-array>
+    <string-array name="arts">
+        <item>Art Gallery</item>
+        <item>Concert Hall</item>
+        <item>Historic Site</item>
+        <item>Movie Theater</item>
+        <item>Museum</item>
+        <item>Music Venue</item>
+        <item>Performing Arts Venue</item>
+        <item>Public Art</item>
+        <item>Racetrack</item>
+        <item>Stadium</item>
+        <item>Theme Park</item>
+        <item>Water Park</item>
+        <item>Zoo</item>
+    </string-array>
+    <string-array name="entertainment">
+        <item>Aquarium</item>
+        <item>Arcade</item>
+        <item>Bowling Alley</item>
+        <item>Casino</item>
+        <item>Comedy Club</item>
+        <item>General Entertainment</item>
+    </string-array>
+    <string-array name="event">
+        <item>Event</item>
+    </string-array>
+    <string-array name="food">
+        <item>Food</item>
+    </string-array>
+    <string-array name="nightlife_spot">
+        <item>Nightlife Spot<item></item></item>
+    </string-array>
+    <string-array name="recreation">
+        <item>Recreation</item>
+    </string-array>
+    <string-array name="shop">
+        <item>  Adult Boutique</item>
+        <item>Antique Shop</item>
+        <item>Crafts Store</item>
+        <item>Automotive Shop</item>
+        <item>Bike Shop</item>
+        <item>Board Shop</item>
+        <item>Bookstore</item>
+        <item>Bridal Shop</item>
+        <item>Camera Store</item>
+        <item>Candy Store</item>
+        <item>Car Dealership</item>
+        <item>Clothing Store</item>
+        <item>Convenience Store</item>
+        <item>Cosmetics Shop</item>
+        <item>Department Store</item>
+        <item>Drugstore / Pharmacy</item>
+        <item>Flea Market</item>
+        <item>Flower Shop</item>
+        <item>Drink Shop</item>
+        <item>Furniture / Home Store</item>
+        <item>Electronics Store</item>
+        <item>Gift Shop</item>
+        <item>Hardware Store</item>
+        <item>Hobby Shop</item>
+        <item>Jewelry Store</item>
+        <item>Market</item>
+        <item>Miscellaneous Shop</item>
+        <item>Mobile Phone Shop</item>
+        <item>Motorcycle Shop</item>
+        <item>Music Store</item>
+        <item>Newsstand</item>
+        <item>Optical Shop</item>
+        <item>Paper / Office Supplies Store</item>
+        <item>Pet Store</item>
+        <item>Record Shop</item>
+        <item>Smoke Shop</item>
+        <item>Sporting Goods Shop</item>
+        <item>Thrift / Vintage Store</item>
+        <item>Toy / Game Store</item>
+        <item>Video Game Store</item>
+        <item>Video Store</item>
+    </string-array>
+    <string-array name="service">
+        <item>Bank</item>
+        <item>Car Wash</item>
+        <item>Credit Union</item>
+        <item>Daycare</item>
+        <item>Design Studio</item>
+        <item>EV Charging Station</item>
+        <item>Hunting Supply</item>
+        <item>Financial or Legal Service</item>
+        <item>Gaming Cafe</item>
+        <item>Garden Center</item>
+        <item>Gas Station / Garage</item>
+        <item>Gym / Fitness Center</item>
+        <item>Internet Cafe</item>
+        <item>Laundry Service</item>
+        <item>Mall</item>
+        <item>Nail Salon</item>
+        <item>Pet Service</item>
+        <item>Photography Lab</item>
+        <item>Real Estate Office</item>
+        <item>Recycling Facility</item>
+        <item>Salon / Barbershop</item>
+        <item>Spa / Massage</item>
+        <item>Storage Facility</item>
+        <item>Tailor Shop</item>
+        <item>Tanning Salon</item>
+        <item>Tattoo Parlor</item>
+        <item>Travel Agency</item>
+    </string-array>
+    <string-array name="travel">
+        <item>Airport</item>
+        <item>Boat or Ferry</item>
+        <item>General Travel</item>
+        <item>Hotel</item>
+        <item>Pier</item>
+        <item>Rest Area</item>
+        <item>Road</item>
+        <item>Subway</item>
+        <item>Tourist Information Center</item>
+        <item>Travel Lounge</item>
+        <item>Train Station</item>
+        <item>Bus Station</item>
+    </string-array>
+    <string-array name="other_places">
+        <item>Other Places</item>
+    </string-array>
+
+    <string name="menu">Категории</string>
+    <string name="next">&#8230;</string>
+    <string name="like">Избранное</string>
+
+</resources>

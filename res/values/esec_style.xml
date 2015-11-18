@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="Theme.eSec" parent="android:style/Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/Theme.eSec.ActionBar</item>
+        <item name="android:actionMenuTextAppearance">@style/Theme.eSec.MenuTextStyleTextStyle</item>
+        <item name="android:actionMenuTextColor">@color/backgroun_main_fragment</item>
+    </style>
+
+    <style name="Theme.eSec.ActionBar" parent="android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:titleTextStyle">@style/Theme.eSec.ActionBar.TitleTextStyle</item>
+        <item name="android:background">@color/background_actionbar</item>
+    </style>
+
+    <style name="Theme.eSec.ActionBar.TitleTextStyle" parent="android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/backgroun_main_fragment</item>
+    </style>
+
+    <style name="Theme.eSec.MenuTextStyleTextStyle" parent="android:style/TextAppearance.Holo.Widget.ActionBar.Menu">
+        <item name="android:textSize">15sp</item>
+    </style>
+
+</resources>

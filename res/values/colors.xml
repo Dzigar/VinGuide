@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="background_actionbar">#e1e6ec</color>
+    <color name="backgroun_main_fragment">#ffffff</color>
+    <color name="background_menu">#394e63</color>
+    <color name="background_item_event">#f2f2f2</color>
+    <color name="color_menu_text">#ffffff</color>
+    <color name="color_divider_item_menu">#364a5f</color>
+    <color name="color_name_venue">#394e63</color>
+    <color name="color_divider_listPlaces">#e1e6ec</color>
+
+</resources>
